@@ -1,0 +1,10 @@
+h3{
+  text-align: center;
+}
+.container{
+  margin : 50px;
+  border: solid black 3px;
+}
+body{
+  background-color: violet;
+}
